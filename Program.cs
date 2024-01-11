@@ -16,7 +16,6 @@ struct Config
     public bool ANTI_CHATTER = false;
     public double ANTI_CHATTER_STRENGTH = 2;
     public bool SMOOTHING = false;
-    public double SMOOTHING_STRENGTH = 2;
     public Config() {
 
     }
